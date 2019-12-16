@@ -1,3 +1,3 @@
 # svg-test
 
-![SVG Image](./ArchitectureModel_SystemContext.svg)
+![SVG Image](./ArchitectureModel_SystemContext.svg?sanitize=true)

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="986px" preserveAspectRatio="none" style="width:695px;height:986px;" version="1.1" viewBox="0 0 695 986" width="695px" zoomAndPan="magnify"><defs/><g><!--MD5=[69b50043840adbfa447fcd72e087f7f4]
+cluster jpumlserverjar--><rect fill="#FFFFFF" height="789" style="stroke: #444444; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;" width="475" x="22" y="24"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="84" x="217.5" y="38.9951">«boundary»</text><text fill="#444444" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="230" x="144.5" y="57.1484">Java PlantUML Server App</text><text fill="#444444" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="80" x="219.5" y="72.0605">[Container]</text><!--MD5=[e65bd815e14eccf0eb05da841e9d2660]
+entity jpumlserver--><rect fill="#85BBF0" height="99.1563" style="stroke: #78A8D8; stroke-width: 1.5;" width="209" x="271.5" y="91"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="85" x="333.5" y="112.1387">«component»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="104" x="324" y="129.8203">Http Server</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="83" x="334.5" y="144.7324">[Spring Boot]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="378" y="160.5576"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="189" x="281.5" y="176.8545">Spring boot html GUI server</text><!--MD5=[ce01f51526037215bd70b564e9e5c528]
+entity jpumlgui--><rect fill="#85BBF0" height="115.4531" style="stroke: #78A8D8; stroke-width: 1.5;" width="170" x="291" y="267"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="85" x="333.5" y="288.1387">«component»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="31" x="360.5" y="305.8203">GUI</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="102" x="325" y="320.7324">[??? / HTTPS / JS]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="378" y="336.5576"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="146" x="301" y="352.8545">Presentation layer for</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="321.5" y="369.1514">application user</text><!--MD5=[0a4f829eb73ca874906af38833695a3f]
+entity jpumlcontrol--><rect fill="#85BBF0" height="115.4531" style="stroke: #78A8D8; stroke-width: 1.5;" width="170" x="253" y="473"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="85" x="295.5" y="494.1387">«component»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="88" x="294" y="511.8203">Controller</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="36" x="320" y="526.7324">[Java]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="340" y="542.5576"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="146" x="263" y="558.8545">Presentation layer for</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="283.5" y="575.1514">application user</text><!--MD5=[04fb188a5a61cba9686d483ecb7c7cb6]
+entity gitservice--><rect fill="#85BBF0" height="131.75" style="stroke: #78A8D8; stroke-width: 1.5;" width="188" x="38" y="665"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="85" x="89.5" y="686.1387">«component»</text><text fill="#000000" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="101" x="81.5" y="703.8203">GIT Service</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="30" x="117" y="718.7324">[GIT]</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="134" y="734.5576"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="164" x="48" y="750.8545">Download sources from</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="161" x="49.5" y="767.1514">repository in requested</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="50" x="107" y="783.4482">version</text><!--MD5=[9df2599a064c8008adf00bc815c2199d]
+entity jpumlapi--><rect fill="#438DD5" height="131.75" style="stroke: #3C7FC0; stroke-width: 1.5;" width="220" x="261" y="665"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="74" x="334" y="686.1387">«container»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="119" x="311.5" y="703.8203">PlantUML API</text><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="27" x="357.5" y="718.7324">[Jar]</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="373" y="734.5576"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="168" x="285" y="750.8545">Library used to generate</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="196" x="271" y="767.1514">SVG's images from PlantUML</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="343" y="783.4482">sources</text><!--MD5=[bf828573e96595da60abe9497e95ff56]
+entity diagramReader--><rect fill="#686868" height="101.4844" style="stroke: #8A8A8A; stroke-width: 1.5;" width="161" x="513.5" y="480"/><text fill="#FFFFFF" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="115" x="536.5" y="501.1387">«external_person»</text><text fill="#FFFFFF" font-family="sans-serif" font-size="16" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="137" x="525.5" y="518.8203">Diagram reader</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="596" y="535.5889"/><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="125" x="529.5" y="551.8857">Person who reads</text><text fill="#FFFFFF" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="141" x="523.5" y="568.1826">Generated diagrams</text><!--MD5=[91235e164a7417a1075a8a87950f4214]
+link diagramReader to jpumlserver--><path d="M586.79,479.808 C582.733,458.447 576.691,433.501 568,412 C534.135,328.221 469.652,245.52 424.807,194.05 " fill="none" id="diagramReader-&gt;jpumlserver" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="421.342,190.092,424.2587,199.4991,424.6347,193.8547,430.2791,194.2307,421.342,190.092" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="54" x="554" y="322.0669">Browse</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="48" x="557" y="336.2715">[HTTPS]</text><!--MD5=[9e1e7272014de42ef0e780ec264eac05]
+link jpumlgui to diagramReader--><path d="M449.521,382.042 C461.293,391.758 473.158,401.964 484,412 C505.621,432.015 528.092,455.474 547.045,476.146 " fill="none" id="jpumlgui-&gt;diagramReader" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="550.542,479.972,547.4224,470.6303,547.1686,476.2814,541.5175,476.0277,550.542,479.972" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="41" x="517" y="425.0669">Serve</text><text fill="#666666" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacingAndGlyphs" textLength="43" x="516" y="439.2715">[HTML]</text><!--MD5=[af18bb3655a47eaa12928555b849ac8e]
+link jpumlserver to jpumlgui--><path d="M376,190.273 C376,212.2 376,238.331 376,261.618 " fill="none" id="jpumlserver-&gt;jpumlgui" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="376,266.849,380,257.849,376,261.849,372,257.849,376,266.849" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="34" x="377" y="233.0669">Host</text><!--MD5=[2d8a605607b324dd050c9a9289d8410c]
+link jpumlgui to jpumlcontrol--><path d="M346.453,382.034 C342.541,391.793 339.147,402.015 337,412 C333.159,429.866 332.128,449.615 332.411,467.743 " fill="none" id="jpumlgui-&gt;jpumlcontrol" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="332.525,472.81,336.3234,463.7231,332.4136,467.8112,328.3254,463.9014,332.525,472.81" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="141" x="338" y="432.0669">Build page content</text><!--MD5=[cbfd7f7ea648fdb2710463e30b062eea]
+link jpumlcontrol to jpumlapi--><path d="M347.412,588.116 C351.129,610.476 355.439,636.399 359.35,659.923 " fill="none" id="jpumlcontrol-&gt;jpumlapi" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="360.178,664.904,362.6476,655.3698,359.3579,659.9717,354.7559,656.682,360.178,664.904" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="103" x="355" y="631.0669">Generate SVG</text><!--MD5=[5d26f00e6f4ce6b9406328c760c127ff]
+link jpumlcontrol to gitservice--><path d="M252.702,572.137 C231.545,584.838 210.067,600.252 193,618 C181.248,630.222 171.068,645.153 162.572,660.08 " fill="none" id="jpumlcontrol-&gt;gitservice" style="stroke: #666666; stroke-width: 1.0;"/><polygon fill="#666666" points="159.989,664.71,167.8677,658.8002,162.4256,660.3439,160.8819,654.9017,159.989,664.71" style="stroke: #666666; stroke-width: 1.0;"/><text fill="#666666" font-family="sans-serif" font-size="13" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="149" x="194" y="631.0669">Checkout repository</text><rect fill="#DDDDDD" height="128.0781" rx="5" ry="5" style="stroke: #000000; stroke-width: 1.0;" width="199" x="485" y="847"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="0" x="561" y="866.9951"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="39" x="566" y="866.9951">Type</text><rect fill="#08427B" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="491" y="870.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="515" y="883.292"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="49" x="565" y="883.292">person</text><rect fill="#686868" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="491" y="886.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="515" y="899.5889"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="108" x="565" y="899.5889">external person</text><rect fill="#1168BD" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="491" y="902.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="503" y="915.8857"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="50" x="565" y="915.8857">system</text><rect fill="#999999" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="491" y="919.1875"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="515" y="932.1826"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="109" x="565" y="932.1826">external system</text><rect fill="#438DD5" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="491" y="935.4844"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="503" y="948.4795"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="65" x="565" y="948.4795">container</text><rect fill="#85BBF0" height="16.2969" style="stroke: none; stroke-width: 1.0;" width="70" x="491" y="951.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="0" x="503" y="964.7764"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="80" x="565" y="964.7764">component</text><line style="stroke: #000000; stroke-width: 1.0;" x1="491" x2="678" y1="854" y2="854"/><line style="stroke: #000000; stroke-width: 1.0;" x1="491" x2="678" y1="870.2969" y2="870.2969"/><line style="stroke: #000000; stroke-width: 1.0;" x1="491" x2="678" y1="886.5938" y2="886.5938"/><line style="stroke: #000000; stroke-width: 1.0;" x1="491" x2="678" y1="902.8906" y2="902.8906"/><line style="stroke: #000000; stroke-width: 1.0;" x1="491" x2="678" y1="919.1875" y2="919.1875"/><line style="stroke: #000000; stroke-width: 1.0;" x1="491" x2="678" y1="935.4844" y2="935.4844"/><line style="stroke: #000000; stroke-width: 1.0;" x1="491" x2="678" y1="951.7813" y2="951.7813"/><line style="stroke: #000000; stroke-width: 1.0;" x1="491" x2="678" y1="968.0781" y2="968.0781"/><line style="stroke: #000000; stroke-width: 1.0;" x1="491" x2="491" y1="854" y2="968.0781"/><line style="stroke: #000000; stroke-width: 1.0;" x1="561" x2="561" y1="854" y2="968.0781"/><line style="stroke: #000000; stroke-width: 1.0;" x1="678" x2="678" y1="854" y2="968.0781"/><!--MD5=[1f803909088f42222e92f5846baa6d36]
+@startuml
+
+
+
+
+
+skinparam defaultTextAlignment center
+
+skinparam wrapWidth 200
+skinparam maxMessageSize 150
+
+skinparam rectangle {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam database {
+    StereotypeFontSize 12
+    shadowing false
+}
+
+skinparam Arrow {
+    Color #666666
+    FontColor #666666
+    FontSize 12
+}
+
+skinparam rectangle<<boundary>> {
+    Shadowing false
+    StereotypeFontSize 0
+    FontColor #444444
+    BorderColor #444444
+    BorderStyle dashed
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #08427B
+    BorderColor #073B6F
+}
+
+skinparam rectangle<<external_person>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #686868
+    BorderColor #8A8A8A
+}
+
+skinparam rectangle<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam rectangle<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+skinparam database<<system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #1168BD
+    BorderColor #3C7FC0
+}
+
+skinparam database<<external_system>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #999999
+    BorderColor #8A8A8A
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+skinparam database<<container>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #FFFFFF
+    BackgroundColor #438DD5
+    BorderColor #3C7FC0
+}
+
+
+
+
+
+
+
+
+
+
+
+
+skinparam rectangle<<component>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #000000
+    BackgroundColor #85BBF0
+    BorderColor #78A8D8
+}
+
+skinparam database<<component>> {
+    StereotypeFontColor #FFFFFF
+    FontColor #000000
+    BackgroundColor #85BBF0
+    BorderColor #78A8D8
+}
+
+
+
+
+
+
+top to bottom direction
+
+hide stereotype
+legend right
+|=              |= Type |
+|<#08427B>      | person |
+|<#686868>      | external person |
+|<#1168BD>   | system |
+|<#999999>      | external system |
+|<#438DD5>   | container |
+|<#85BBF0>   | component |
+endlegend
+show stereotype
+
+rectangle "==Diagram reader\n\n Person who reads Generated diagrams" <<external_person>> as diagramReader
+
+rectangle "==Java PlantUML Server App\n<size:12>[Container]</size>" <<boundary>> as jpumlserverjar {
+
+    rectangle "==Http Server\n//<size:12>[Spring Boot]</size>//\n\n Spring boot html GUI server" <<component>> as jpumlserver
+    rectangle "==GUI\n//<size:12>[??? / HTTPS / JS]</size>//\n\n Presentation layer for application user" <<component>> as jpumlgui
+    rectangle "==Controller\n//<size:12>[Java]</size>//\n\n Presentation layer for application user" <<component>> as jpumlcontrol
+    rectangle "==GIT Service\n//<size:12>[GIT]</size>//\n\n Download sources from repository in requested version" <<component>> as gitservice
+    rectangle "==PlantUML API\n//<size:12>[Jar]</size>//\n\n Library used to generate SVG's images from PlantUML sources" <<container>> as jpumlapi
+
+}
+
+
+diagramReader - -> jpumlserver : "===Browse\n//<size:12>[HTTPS]</size>//"
+jpumlgui - -> diagramReader : "===Serve\n//<size:12>[HTML]</size>//"
+jpumlserver - -> jpumlgui : "===Host"
+jpumlgui - -> jpumlcontrol : "===Build page content"
+jpumlcontrol - -> jpumlapi : "===Generate SVG"
+jpumlcontrol - -> gitservice : "===Checkout repository"
+@enduml
+
+PlantUML version 1.2019.13(Tue Dec 10 17:18:29 UTC 2019)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.7.0_25-b15
+Operating System: Linux
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
